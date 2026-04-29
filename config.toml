@@ -1,0 +1,4 @@
+require_pairing = false
+
+[channels.lark]
+enabled = true
